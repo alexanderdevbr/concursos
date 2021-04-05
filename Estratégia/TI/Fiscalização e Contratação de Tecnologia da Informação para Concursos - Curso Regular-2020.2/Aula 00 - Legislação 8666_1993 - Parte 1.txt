@@ -1,0 +1,61 @@
+O que é Licitação?
+Necessidade da Administração e contrato com terceiro
+
+Conceito
+    - Procedimento Administrativo, Conjunto de atos
+        - Edital
+        - Ato de Habilitação
+        - Ato de Julgamento e Classificação das propostas
+        - Homologação
+        - Adjicação*
+    - Selecionar uma propostas apresentada pelos Licitantes (+ vantajosa)
+    - Aferir os Requisitos mínimos apresentados pelos Licitantes Qualificação
+    - Princípios da Isonomia, Impessoaliade, Indisponibilidade do Interesse Público
+
+Legislação aplicável: 
+- CF Art.37 [...] XXI - Obrigatoriedade de Licitar, "ressalvados os casos especificados na Legislação"
+- CF Art.22 [...] XXVII - Quem tem competencia para legislar sobre Licitações Públicas
+    - "compete à União legislar normas de licitação para Admnistração Pública Direta, Autárquias e Fundações"
+    - "compete à União legislar normas de licitação para Empresas Públicas e Sociedades de Economia mista, nos termos do Art. 173, § 1°, III"
+- CF Art.173, § 1°. III - "Estatuto jurídico da empresa pública, da sociedade de economia mista"
+
+Competência Legislativa
+-----------------------
+    - União
+        - Normas Gerais (modalidades, critérios, prazos, etc.) Lei 8.666
+            - União
+            - Estados e Distrito Federal
+            - Municípios
+    - Estados, DF e Municípios
+        - Não podem contrariar "Normas Gerais" da União
+        - Normas específicas
+            - Não podem criar novas modalidades
+            - Não podem criar novos tipos (critérios)
+            - Não podem criar novas dispensa
+
+Abrangência Lei 8.666
+---------------------
+    - Todos os entes da Federação (União, Estados, DF e Municípios)
+    - Administração Direta (Executivo, Legislativo e Judiciário)
+    - Administração Indireta 
+        - Autárquias, Fundações Públicas
+        - Empresas Públicas e Sociedades de Economia Mista
+            - Lei 13.303/2016 (Primária)
+            - Lei 8.666 (Subsidiária)
+    - Fundos Especiais
+    - Entidades Controladas
+    - Outras:
+        - Lei 10.520/2002 - Pregão (Inclusive Empresas Pública e Sociedades de Economia Mista)
+        - Lei 12.462/2011 - RDC
+        - Lei 12.232/2010 - Agências de publicidade
+        - Lei 12.598/2012 - Produtos e sistemas de defesa
+
+Finaliades e Princípios
+-----------------------
+    Art. 3° - Isonomia, Seleção propostas mais vantajosa, Promoção desenvolvimento nacional sustentável
+    - Isonomia, o estado deve permitir que qualquer pessoa tenha condições de concorrer com os demais
+    - Proposta mais vantajosa
+    - Desenvolvimento naciona sustentável
+        - Aspectos econômicos
+        - Normas Ambientais
+        
